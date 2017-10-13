@@ -6,3 +6,5 @@ print ("Your name is " + myName)
 
 #blah blah blah
 #ready for enhancing this Hello program
+
+print("Hello my friend!")
